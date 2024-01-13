@@ -1,0 +1,4 @@
+.for-setting-footer{
+    position: relative;
+    min-height: calc(65vh + 12px );   
+}
